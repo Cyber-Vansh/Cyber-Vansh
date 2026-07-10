@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Full-stack developer experienced in building scalable web applications using Next.js and Node.js, with a strong foundation in<br>Data Structures and Algorithms and competitive programming experience as an ICPC Regionalist 2025. Built projects<br>including an AI-powered data analytics platform that converts natural language to SQL and a real-time coding battle platform<br>with live code execution and leaderboards, and interested in exploring scalable systems and performance-driven product<br><br>EXTRA-CURRICULAR ACTIVITIES<br> ICPC (International Collegiate Programming Contest)<br>– Qualified for ICPC Regionals in Second Year and represented the institute at the Regional Contest.<br> Smart India Hackathon (SIH)<br>– Cleared Internal College Hackathon Round in Second Year, demonstrating continued improvement and<br>consistency.
 
 
